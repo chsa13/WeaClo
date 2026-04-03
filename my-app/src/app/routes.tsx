@@ -21,4 +21,4 @@ export const router = createBrowserRouter([
       { path: "settings", Component: Settings },
     ],
   },
-]);
+], {basename: "/WeaClo"});
